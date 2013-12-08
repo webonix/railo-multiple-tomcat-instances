@@ -3,6 +3,9 @@ Railo - multiple tomcat instances
 
 Multiple Railo servers on one Tomcat
 
+
+Blog Post: http://webonix.net/post/multiple-railo-servers-on-one-tomcat-install
+
 download and install tomcat 7
 d:\tomcat7
 
