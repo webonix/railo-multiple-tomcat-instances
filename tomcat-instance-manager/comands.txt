@@ -1,0 +1,6 @@
+set CATALINA_HOME=C:\Tomcat7
+set JAVA_HOME=C:\Java\jdk1.7.0_45
+
+tomcat7 create-instance railo8810 C:\Tomcat7\servers railo8810 "Apache Tomcat Railo 8810"
+
+railo8810.bat service install
